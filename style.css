@@ -89,3 +89,20 @@ h2{
     text-align: center;
     margin: 40px;
 }
+
+
+
+footer{
+    background-color: black;
+    text-align: center;
+}
+.foot{
+    font-family: 'Lobster', cursive;
+    color: #FF5959;
+    font-size: 40px;
+    font-weight: 500;    
+}
+#p-foot{
+    margin: 0;
+    color: #707070;
+}
