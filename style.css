@@ -35,3 +35,57 @@ a
     background-color: tomato;
     color: white;
 }
+h2{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+    margin: 100px 0 0px;
+}
+.today{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.money{
+    height: 100px;
+    width: 60%;
+    margin: 0 auto;
+}
+.money ul li{
+    list-style-type: none;
+    float: left;
+    padding: 20px 12px;
+    font-size: 30px;
+    color: #707070;
+    line-height: 36px;
+    font-weight: 700;
+    background-color: #FAFAFA;
+    margin: 15px;
+    margin-bottom: 30px;
+}
+.money-point{
+    border-style: solid;
+    border-color: #FF5959;
+    background-color: #f41a1a;
+    color: #FF5959;
+}
+.tk-text{
+    height: 50px;
+    width: 60%;
+    margin: 0 auto;
+    border-bottom: #DADADA;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+.amount{
+    text-align: center;
+    width: 100%;
+    border: none;
+    color: #b3b3b3;
+    font-size: 18PX;
+    outline: none;
+}
+ .today-button{
+    text-align: center;
+    margin: 40px;
+}
