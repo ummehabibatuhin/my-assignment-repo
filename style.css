@@ -92,6 +92,41 @@ h2{
 
 
 
+
+
+
+
+.my-update{
+    display: flex;
+    text-align: center;
+    height: 60px;
+    width: 500;
+    margin: 0 auto;
+    padding: 60px;
+    background-color: rgb(232, 232, 107);
+}
+.email-button{
+    text-align: left;
+    background-color: #d9d9d9;    
+    width: 250px;
+    height: 50px;
+    border-radius: 5px 0 0 5px;
+    margin: 0;
+}
+.subscribe-button{
+    background-color: #FF5959;
+    font-size: 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    padding: 15px;
+    margin: 0;
+    width: 150px;
+    
+}
+
+
+
 footer{
     background-color: black;
     text-align: center;
