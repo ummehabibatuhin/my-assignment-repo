@@ -109,21 +109,27 @@ h4{
     margin: 10px;
 }
 .food{
-    background-color: aliceblue;
+    background-color: rgb(190, 212, 232);
 }
 .family{
-    background-color: #7a7676;
+    background-color: #e8c6c6;
 }
 .education{
     background-color: #eeb6b6;
 }
+.donation{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.half-width h2{
+    margin-left: 25px;
 
-.flexible-container{
-    width: 50%;
 }
-.half-width img{
-    width: 50%;
-}
+
 
 
 
@@ -132,17 +138,16 @@ h4{
 .my-update{
     display: flex;
     text-align: center;
-    height: 60px;
-    width: 500;
-    margin-left: 10%;
-    padding: 60px;
+    height: 100px;
+    width: 500px;
+    padding: 80px 100px 50px 150px;
     background-color: rgb(232, 232, 107);
 }
 .email-button{
     text-align: left;
     background-color: #d9d9d9;    
     width: 250px;
-    height: 50px;
+    height: 47px;
     border-radius: 5px 0 0 5px;
     margin: 0;
 }
