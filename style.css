@@ -89,7 +89,34 @@ h2{
     text-align: center;
     margin: 40px;
 }
-
+.plan{
+    display: flex;
+    width: 100%;
+    margin-left: 60px;
+}
+.donate-plan{
+    width: 28%;
+    margin: 10px;    
+}
+.donate-plan img{
+    margin: 40px 15px 10px;
+}
+h4{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #707070;
+    margin: 10px;
+}
+.food{
+    background-color: aliceblue;
+}
+.family{
+    background-color: #7a7676;
+}
+.education{
+    background-color: #eeb6b6;
+}
 
 
 
