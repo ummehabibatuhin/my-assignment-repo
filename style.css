@@ -118,6 +118,12 @@ h4{
     background-color: #eeb6b6;
 }
 
+.flexible-container{
+    width: 50%;
+}
+.half-width img{
+    width: 50%;
+}
 
 
 
@@ -128,7 +134,7 @@ h4{
     text-align: center;
     height: 60px;
     width: 500;
-    margin: 0 auto;
+    margin-left: 10%;
     padding: 60px;
     background-color: rgb(232, 232, 107);
 }
